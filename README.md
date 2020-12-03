@@ -6,8 +6,8 @@ Simple LOC counter in PHP for command line.
 
 Arguments:
 
-[1] absolute path to readable directory whose files are to be counted
-[2] sorting method: files, all, loc, empty
+* [1] absolute path to readable directory whose files are to be counted
+* [2] sorting method: files, all, loc, empty
 
 ## License
 
